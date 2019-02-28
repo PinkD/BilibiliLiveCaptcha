@@ -1,0 +1,16 @@
+# base
+.idea/
+venv/
+__pycache__/
+
+
+# project
+common/cookie.py
+test*
+log/
+save/
+img/conv_out/
+img/number/
+img/full/unchecked/
+
+
